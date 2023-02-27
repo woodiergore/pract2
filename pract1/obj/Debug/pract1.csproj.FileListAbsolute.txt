@@ -1,0 +1,8 @@
+E:\pract1\bin\Debug\pract1.exe.config
+E:\pract1\bin\Debug\pract1.exe
+E:\pract1\bin\Debug\pract1.pdb
+E:\pract1\obj\Debug\pract1.csproj.AssemblyReference.cache
+E:\pract1\obj\Debug\pract1.csproj.SuggestedBindingRedirects.cache
+E:\pract1\obj\Debug\pract1.csproj.CoreCompileInputs.cache
+E:\pract1\obj\Debug\pract1.exe
+E:\pract1\obj\Debug\pract1.pdb
